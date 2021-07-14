@@ -1,1 +1,1 @@
-# Hidden_Hierarchy_Bigraph_Mode
+# Hidden_Hierarchy_Bigraph_Model
